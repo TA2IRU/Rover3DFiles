@@ -5,8 +5,8 @@ tekerlerden oluşmaktadır. Bir tekerin baskı süresi genel tip yazıcılarda
 yaklaşık olarak 6,5 saattir, toplamda teker başına yaklaşık 14.8 metre 44 gram 
 filament harcanır. Teker mili yuvası standart 6V 250 RPM plastik dişli çift 
 şaftlı motorlar için uygundur. Yapıştırma desteği için 1 mm esnek pay 
-bırakıılmıştır.</font></p>
-<p align="justify"><b><font size="2">Tutucular&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 
+bırakılmıştır.</font></p>
+<p align="justify"><b><font size="2">Tutucular&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 
 </font></b><font size="2">Ana gövde ile tekerlek sistemini birleştiren kare 
 şeklindeki parçadır. Rover üzerinde 3 adet bulunmaktadır. Bu malzemenin görevi; 
 rover'e modüler bir yapı kazandırarak istenildiği gibi uzunluğun ve kullanım 
